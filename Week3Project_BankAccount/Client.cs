@@ -11,7 +11,7 @@ namespace Week3Project_BankAccount
         //FIELDS
         private string name = "Scrooge McDuck";
         private string phoneNum = "555-438-4654"; //this spells 555-GET-GOLD on a phone.
-        private string address = "Calisota, Duckburg, USA.";
+        private string address = "Calisota, Duckburg, USA.\n";
         // source http://mentalfloss.com/article/49630/15-things-you-didnt-know-about-ducktales
 
         //PROPERTIES
